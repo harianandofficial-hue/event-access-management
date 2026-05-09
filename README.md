@@ -5,8 +5,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-A beginner-friendly **Backend REST API** for managing event access, registrations, and attendees — built as a Capstone Project.
-
 ---
 
 ## 📌 Project Overview
